@@ -16,7 +16,6 @@ Thanks @jsakamoto for this! [Source code](https://github.com/jsakamoto/awesome-b
 * [Templates](#templates)
 * [Sample Projects](#sample-projects)
 * [Tutorials](#tutorials)
-* [Routing & Navigation](#routing--navigation)
 * [Libraries & Extensions](#libraries--extensions)
 * [Source generators](#source-generators)
 * [Real-World applications](#real-world-applications)
@@ -245,6 +244,8 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [Blazored.Modal](https://github.com/Blazored/Modal) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Modal?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Modal?style=flat-square&cacheSeconds=86400) A JavaScript free modal library for Blazor and Razor Components applications.
 * [Blazored.Toast](https://github.com/Blazored/Toast) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/Toast?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Blazored/Toast?style=flat-square&cacheSeconds=86400) A JavaScript free toast library for Blazor and Razor Component applications.
 * [Blazor.Sidepanel](https://github.com/Append-IT/Blazor.Sidepanel) - ![GitHub stars](https://img.shields.io/github/stars/Append-IT/Blazor.Sidepanel?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Append-IT/Blazor.Sidepanel?style=flat-square&cacheSeconds=86400) A powerful and customizable Sidepanel implementation for Blazor applications.
+### Routing & Navigation
+* [Blazouter](https://github.com/Taiizor/Blazouter) - ![stars](https://img.shields.io/github/stars/Taiizor/Blazouter?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Taiizor/Blazouter?style=flat-square&cacheSeconds=86400) Blazouter brings modern, React Router-inspired routing to Blazor. It provides true nested routes, built-in route guards, lazy loading, per-route layouts and rich transitions — all type-safe and compatible with Server, WebAssembly, and Hybrid (MAUI) hosting models.
 #### Tabs
 * [BlazorXTabs](https://github.com/David-Moreira/BlazorXTabs) - ![last commit](https://img.shields.io/github/last-commit/David-Moreira/BlazorXTabs?style=flat-square&cacheSeconds=86400) An extended tabs component library providing various tab features for Blazor.
 #### Testing
@@ -286,10 +287,6 @@ Doing the [Build a web app with Blazor](https://docs.microsoft.com/en-us/learn/m
 * [BlazorGravatar](https://github.com/PSCourtney/BlazorGravatar) - ![stars](https://img.shields.io/github/stars/PSCourtney/BlazorGravatar?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/PSCourtney/BlazorGravatar?style=flat-square&cacheSeconds=86400) A Blazor component for integrating Gravatar, Blazor WASM, Server and SSR.
 * [BlazorDragDrop](https://github.com/Postlagerkarte/Blazor-DragDrop) - ![stars](https://img.shields.io/github/stars/Postlagerkarte/Blazor-DragDrop?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Postlagerkarte/Blazor-DragDrop?style=flat-square&cacheSeconds=86400) A simple drag-and-drop library for Blazor components.
 * [BlazorTreeViews](https://github.com/excubo-ag/Blazor.TreeViews) - ![stars](https://img.shields.io/github/stars/excubo-ag/Blazor.TreeViews?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/excubo-ag/Blazor.TreeViews?style=flat-square&cacheSeconds=86400) A customizable tree view component for Blazor applications.
-
-### Routing & Navigation
-*Libraries and extensions for routing and navigation.*
-* [Blazouter](https://github.com/Taiizor/Blazouter) - ![stars](https://img.shields.io/github/stars/Taiizor/Blazouter?style=flat-square&cacheSeconds=604800) ![last commit](https://img.shields.io/github/last-commit/Taiizor/Blazouter?style=flat-square&cacheSeconds=86400) Blazouter brings modern, React Router-inspired routing to Blazor. It provides true nested routes, built-in route guards, lazy loading, per-route layouts and rich transitions — all type-safe and compatible with Server, WebAssembly, and Hybrid (MAUI) hosting models.
 
 ### Tools & Utilities
 *Libraries and extensions for state management, cookies, local storage and other specific tools.*
